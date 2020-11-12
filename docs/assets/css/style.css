@@ -134,6 +134,14 @@ h3 {
 	border-top: 1px solid #073642;
 }
 
+#author {
+	width: 500px;
+	margin: 50px auto 20px auto;
+	padding-top: 10px;
+	font-size: 5em;
+	border-top: 1px solid #073642;
+}
+
 #content {
 	width: 500px;
 	margin: 0 auto;
