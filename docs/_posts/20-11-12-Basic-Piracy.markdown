@@ -7,8 +7,6 @@ categories: guides
 ---
 This is a basic guide to start your jurney on piracy. Starting at installing your client, VPN instalation, and an explanation on why you should seed. It will cover the basics lightly for nbrand new people. This is our first offical guide, and more to come.
 
-by Dimitri/Asphxia
-
 ## Client Install
 so navigate to [qbittorrent.org](https://www.qbittorrent.org/download.php) and click mirror link: 64-bit installer install and there you go you have your client installed
 
