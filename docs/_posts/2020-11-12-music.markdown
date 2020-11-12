@@ -5,9 +5,9 @@ date:	2020-11-12 09:59:41 -0800
 author: Another Red/reat
 categories: piracy
 ---
-# The Complete Guide On Music Piracy 
 This guide will cover all aspects on music piracy, from choosing the right sources to downloading complete albums and also to ensure that the tracks you have are indeed lossless via spectral analysis.
 
+Another Red/reat
 ## Soulseek
 
 ### About
