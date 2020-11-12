@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"The Complete Guide on Music Piracy"
+title:"The Complete Guide on Music Piracy"
 date:	2020-11-12 09:59:41 -0800
 author: Another Red/reat
 categories: piracy
