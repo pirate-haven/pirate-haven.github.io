@@ -3,7 +3,7 @@ layout: post
 title:  "Basic Piracy"
 date:   2020-11-12 09:41:32 -0800
 author: Dimitri/Asphxia
-categories: guides
+tags: guides
 ---
 This is a basic guide to start your jurney on piracy. Starting at installing your client, VPN instalation, and an explanation on why you should seed. It will cover the basics lightly for nbrand new people. This is our first offical guide, and more to come.
 
