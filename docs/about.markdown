@@ -9,3 +9,8 @@ This is the Pirate Haven blog where we will be posting all of our guides, lists,
 
 # Contributing
 Feel free to contribute by opening a pull request in our <a href="https://github.com/pirate-haven/pirate-haven.github.io">repo</a>! 
+
+# Contributors
+PrimeTime09(pryme-svg): Site Designer and Creator
+Crenshaw1312: Site Designer
+Another Red(reat): Guide Creator
