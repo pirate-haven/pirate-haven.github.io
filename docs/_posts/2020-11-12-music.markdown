@@ -7,7 +7,6 @@ categories: piracy
 ---
 This guide will cover all aspects on music piracy, from choosing the right sources to downloading complete albums and also to ensure that the tracks you have are indeed lossless via spectral analysis.
 
-Another Red/reat
 ## Soulseek
 
 ### About
