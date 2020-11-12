@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Basic Piracy"
 date:   2020-11-12 09:41:32 -0800
-categories: jekyll update
+categories: guides
 ---
 __by Dimitri/Asphixia__
 
