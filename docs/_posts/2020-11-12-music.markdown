@@ -1,7 +1,8 @@
 ---
 layout:	post
-title:	"Guide on Music Piracy"
+title:	"The Complete Guide on Music Piracy"
 date:	2020-11-12 09:59:41 -0800
+author: Another Red/reat
 categories: piracy
 ---
 # The Complete Guide On Music Piracy 
@@ -38,6 +39,3 @@ You will now have a panel similar to this after finishing installation.
 Now, you must first add your folder where you store your music tracks in order to share them to other users. In order to do that, head over to ```Options -> File Sharing -> Set share folder (Visible at the topmost tab)```, and select you're folder and set it as public if you want anyone to download or you can make it private if you want to restrict the access.
 **Step-4:**
 And, now that you're set, you can start searching for music albums. Use the search tab and enter the track name. In case you want a specific format add in the format along with the search. Once you get the results, you can download them. The downloads are shown at transfers tab. If you set a share folder, any file you upload to others will be shown in the same tab
-
----
-Credits: another red (reat)
