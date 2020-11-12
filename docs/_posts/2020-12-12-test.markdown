@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"RSS test post"
+dat:	2020-11-12 11:44:41 -0800
+author:	primetime
+categories: piracy
+---
+This is a test
