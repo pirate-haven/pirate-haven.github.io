@@ -53,8 +53,7 @@ Same as month and day, padded numbers, example: `33` or `07`.
 - `TIMEZONE`
 The time zone that the time correlates to, leave blank for UTC, example: `-0800`.
 
-
-
+#
 ### Author
 Please put your discord username, nickname if you have one, in the author field. DO NOT give yourself a credit line after or before the summary, nor at the end of your blog post. If you haven't noticed, your name is automatically placed right under the title!
 
