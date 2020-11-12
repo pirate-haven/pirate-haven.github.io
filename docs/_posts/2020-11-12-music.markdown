@@ -39,5 +39,4 @@ Now, you must first add your folder where you store your music tracks in order t
 **Step-4:**
 And, now that you're set, you can start searching for music albums. Use the search tab and enter the track name. In case you want a specific format add in the format along with the search. Once you get the results, you can download them. The downloads are shown at transfers tab. If you set a share folder, any file you upload to others will be shown in the same tab
 
----
-Credits: another red (reat)
+### Credits: another red (reat)
