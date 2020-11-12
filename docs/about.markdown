@@ -37,7 +37,7 @@ The title of your post. there should be TWO space between the `title:` and the n
 > Note* You don't have to re-type you title in the markdown, it's formmated so you don't have to!
 
 ### Date
-The date has to be formated as so: `YEAR-MONTH-DAY HOUR:MINUTE:SECOND -0800`
+The date has to be formated as so: `YEAR-MONTH-DAY HOUR:MINUTE:SECOND -0500`
 - `YEAR`
 The current year, example: `1989` or `2020`. DO NOT just the last to numbers, all four.
 -  `MONTH`
@@ -50,8 +50,8 @@ The hour in analog time. For 3pm that would be `15`, and for 2am that would be `
 Same as month and day, padded numbers, example: `60` or `05`
 - `SECOND`
 Same as month and day, padded numbers, example: `33` or `07`
-- `THING`
-We're not really sure, just put it there `-0800`
+- `TIMEZONE`
+The time zone that the time correlates to, leave blank for UTC, example: `-0800`
 
 ### Author
 Please put your discord username, nickname if you have one, in the author field. DO NOT give yourself a credit line after or before the summary, nor at the end of your blog post. If you haven't noticed, your name is automatically placed right under the title!
@@ -74,4 +74,8 @@ Two and three letter "joining" words are not capitalized in your title. Exceptio
 ### File Name
 This is VERY IMPORTANT, the name of the file must be in this format:  `YEAR-MONTH-DAY-Your-Title.markdown`
 
+
 There should be no spaces, those are replaced with a `-`.
+
+Once you have read this guide, initiate a pull request by creating a new file in /docs/_posts
+
