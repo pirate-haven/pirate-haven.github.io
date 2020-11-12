@@ -275,7 +275,7 @@ img.center {
   line-height: 1.7;
 }
  
-.icon-sun:before { content: '\e801'; }
+.icon-sun:before { content: 'Pirate Haven'; }
 .icon-anchor:before { content: '\e800'; }
 .icon-anchor {
 	font-size: 65%;
