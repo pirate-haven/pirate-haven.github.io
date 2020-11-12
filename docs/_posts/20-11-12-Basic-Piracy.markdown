@@ -12,7 +12,7 @@ so navigate to [qbittorrent.org](https://www.qbittorrent.org/download.php) and c
 ## VPN INSTALL
 so there is alot of vpn's that are trustable but we will go with Nordvpn cuz its trustable, they dont log your activity and it encryptes your data (as any vpn would) 
 
-so head over to [nordvpn.com]9https://nordvpn.com/download/?utm_expid=.pItdvYrBRVOAWVzhTTA4mA.0&utm_referrer=https%3A%2F%2Fwww.google.com%2F) click install for windows and follow the installation process, open nordvpn it should ask for an account as i am a nice guy i will provide 3 accounts than connect to the vpn
+so head over to [nordvpn.com](https://nordvpn.com/download/?utm_expid=.pItdvYrBRVOAWVzhTTA4mA.0&utm_referrer=https%3A%2F%2Fwww.google.com%2F) click install for windows and follow the installation process, open nordvpn it should ask for an account as i am a nice guy i will provide 3 accounts than connect to the vpn
 
  accout number 1 = connellybrian47@gmail.com:generals47
  
