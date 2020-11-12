@@ -43,15 +43,15 @@ The current year, example: `1989` or `2020`. DO NOT just the last to numbers, al
 -  `MONTH`
 Current Month, padded, example: `01` or `12`. DO NOT type it out, numbers only.
 - `DAY`
-The day... same formatting as month, padded if needed. exaple: `08` or `23`
+The day... same formatting as month, padded if needed. exaple: `08` or `23`.
 - `HOUR`
-The hour in analog time. For 3pm that would be `15`, and for 2am that would be `2`
+The hour in analog time. For 3pm that would be `15`, and for 2am that would be `2`.
 - `MINUTE`
-Same as month and day, padded numbers, example: `60` or `05`
+Same as month and day, padded numbers, example: `60` or `05`.
 - `SECOND`
-Same as month and day, padded numbers, example: `33` or `07`
+Same as month and day, padded numbers, example: `33` or `07`.
 - `TIMEZONE`
-The time zone that the time correlates to, leave blank for UTC, example: `-0800`
+The time zone that the time correlates to, leave blank for UTC, example: `-0800`.
 
 ### Author
 Please put your discord username, nickname if you have one, in the author field. DO NOT give yourself a credit line after or before the summary, nor at the end of your blog post. If you haven't noticed, your name is automatically placed right under the title!
