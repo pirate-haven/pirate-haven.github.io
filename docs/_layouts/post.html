@@ -17,5 +17,10 @@ layout: default
 	<div class="post-content">{{ content }}</div>
 
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
-
+	
+	{% if page.author %}
+		- <a href="{{ page.author_link }}" title="{{ page.author }}">{{ page.author }}</a>
+	{% else %}
+		- Anonymous
+	{% endif %}
 </article>
