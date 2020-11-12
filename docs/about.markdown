@@ -22,7 +22,7 @@ layout:	post
 title:  "Title in quotes"
 date:	date
 author: your username on discord
-categories: tags
+tags: tags
 ---
 Summary of blog post
 
@@ -39,6 +39,7 @@ The title of your post. there should be TWO space between the `title:` and the n
 
 ### Date
 The date has to be formated as so: `YEAR-MONTH-DAY HOUR:MINUTE:SECOND -0500`
+
   - `YEAR` The current year, example: `1989` or `2020`. DO NOT just the last to numbers, all four.
   -  `MONTH` Current Month, padded, example: `01` or `12`. DO NOT type it out, numbers only.
   - `DAY` The day... same formatting as month, padded if needed. exaple: `08` or `23`.
@@ -50,7 +51,7 @@ The date has to be formated as so: `YEAR-MONTH-DAY HOUR:MINUTE:SECOND -0500`
 ### Author
 Please put your discord username, nickname if you have one, in the author field. DO NOT give yourself a credit line after or before the summary, nor at the end of your blog post. If you haven't noticed, your name is automatically placed right under the title!
 
-### Catagories
+### Tags
 We prefer you did only one so that when we have it sent to our discord it is formatted correctly and people can enjoy your post easier. You can do multipule, just note it may not link to your post correctly!
 
 ## Other Rules
