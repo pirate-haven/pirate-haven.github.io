@@ -77,15 +77,15 @@ acronym, abbr {
 
 
 h1 {
-	font-size: 17px;
+	font-size: 30px;
 	margin: 0 0 10px 0;
 }
 h2 {
-	font-size: 15px;
+	font-size: 20px;
 	margin: 0 0 10px 0;
 }
 h3 {
-	font-size: 14px;
+	font-size: 15px;
 	margin: 0 0 10px 0;
 }
 
@@ -175,7 +175,7 @@ article {
 }
 
 article h1 {
-	font-size: 17px;
+	font-size: 25px;
 	margin: 0 0 10px 0;
 }
 article h1 a {
@@ -272,7 +272,7 @@ img.center {
   font-family: "solarthemeicons";
   font-style: normal;
   font-weight: normal;
-  speak: none;
+  speak-as: none;
   display: inline-block;
   text-decoration: inherit;
   width: 1em;
