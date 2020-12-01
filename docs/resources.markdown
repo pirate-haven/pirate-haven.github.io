@@ -17,13 +17,13 @@ Here is a list of links and helpful sites Team Pirate Haven put together! If you
 ## Movies
 ## Cartoons
 ## Software
-[rutracker!](http://rutracker.org) - General
+[rutracker](http://rutracker.org) - General
 
-[1337!](http://1337x.to) - Public Tracker (beware!)
+[1337](http://1337x.to) - Public Tracker (beware!)
 
-[sjain guides!](https://www.saidit.net/s/sjain_guides) - Adobe Products
+[sjain guides](https://www.saidit.net/s/sjain_guides) - Adobe Products
 
-[m0nkrus!](http://monkrus.ws) - Adobe
+[m0nkrus](http://monkrus.ws) - Adobe
 
 ## Games
 ## Books/E-Books
