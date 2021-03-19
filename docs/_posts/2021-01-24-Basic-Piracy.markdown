@@ -2,7 +2,7 @@
 layout: post
 title:  "Basic Piracy"
 date:   2021-01-24 09:41:32 -0800
-author: Dimitri/Asphxia and the Pirate Haven Team
+author: Dimitri/Asphxia, Rekulous and the Pirate Haven Team
 tags: guides
 ---
 
