@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Basic Piracy"
-date:   2021-01-24 09:41:32 -0800
-author: Dimitri/Asphxia and the Pirate Haven Team
+title:  "Direct Downloading Video Games"
+date:   2021-02-20
+author: Rekulous
 tags: guides
 ---
 
-This is a basic guide to start your journey on piracy. Starting at installing your torrent client, VPN instillation, and an explanation on why you should seed. It will cover the basics lightly for brand new people. 
+This is a basic guide to start your journey on video game piracy! Starting at trusted sites, game installtion, and an explanation on why direct downloading games is popular and accessible.
 
 ## Client Install
 QBittorent is an open source bittorrent client. To install it, navigate to [qbittorrent.org](https://www.qbittorrent.org/download.php) and proceed using the installer
