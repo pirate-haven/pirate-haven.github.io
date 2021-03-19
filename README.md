@@ -1,4 +1,4 @@
-![The Haven](https://cdn.discordapp.com/icons/766385976960352317/f9e0cc2f398e129d821ad1892165f272.png)
+![The Haven]
 ---
 ![MD](https://img.shields.io/badge/--blue?logo=markdown&style=flat-square)
 ---
